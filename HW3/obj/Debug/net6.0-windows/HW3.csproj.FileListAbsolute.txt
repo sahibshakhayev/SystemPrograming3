@@ -1,0 +1,17 @@
+D:\Projects\STEP IT\System Programing\HW3\HW3\bin\Debug\net6.0-windows\HW3.exe
+D:\Projects\STEP IT\System Programing\HW3\HW3\bin\Debug\net6.0-windows\HW3.deps.json
+D:\Projects\STEP IT\System Programing\HW3\HW3\bin\Debug\net6.0-windows\HW3.runtimeconfig.json
+D:\Projects\STEP IT\System Programing\HW3\HW3\bin\Debug\net6.0-windows\HW3.dll
+D:\Projects\STEP IT\System Programing\HW3\HW3\bin\Debug\net6.0-windows\HW3.pdb
+D:\Projects\STEP IT\System Programing\HW3\HW3\obj\Debug\net6.0-windows\HW3.csproj.AssemblyReference.cache
+D:\Projects\STEP IT\System Programing\HW3\HW3\obj\Debug\net6.0-windows\HW3.Form1.resources
+D:\Projects\STEP IT\System Programing\HW3\HW3\obj\Debug\net6.0-windows\HW3.csproj.GenerateResource.cache
+D:\Projects\STEP IT\System Programing\HW3\HW3\obj\Debug\net6.0-windows\HW3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\STEP IT\System Programing\HW3\HW3\obj\Debug\net6.0-windows\HW3.AssemblyInfoInputs.cache
+D:\Projects\STEP IT\System Programing\HW3\HW3\obj\Debug\net6.0-windows\HW3.AssemblyInfo.cs
+D:\Projects\STEP IT\System Programing\HW3\HW3\obj\Debug\net6.0-windows\HW3.csproj.CoreCompileInputs.cache
+D:\Projects\STEP IT\System Programing\HW3\HW3\obj\Debug\net6.0-windows\HW3.dll
+D:\Projects\STEP IT\System Programing\HW3\HW3\obj\Debug\net6.0-windows\refint\HW3.dll
+D:\Projects\STEP IT\System Programing\HW3\HW3\obj\Debug\net6.0-windows\HW3.pdb
+D:\Projects\STEP IT\System Programing\HW3\HW3\obj\Debug\net6.0-windows\HW3.genruntimeconfig.cache
+D:\Projects\STEP IT\System Programing\HW3\HW3\obj\Debug\net6.0-windows\ref\HW3.dll
